@@ -1,2 +1,2 @@
 # VirComp
-Virus Computer Creator! Tunggu Next update yah! Ada bug? Lapor! 081578857166 Professional only
+Virus Computer Creator! Tunggu Next update yah! Ada bug? Lapor! dcsteam77@gmail.com Professional only
