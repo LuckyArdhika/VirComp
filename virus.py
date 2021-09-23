@@ -1,6 +1,4 @@
 # - *- coding: utf- 8 - *-
-#CreatedCyXNot404
-#recode ga bakal bikin lu pro!
 
 blue='\033[94m'
 green='\033[92m'
